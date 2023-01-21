@@ -1,7 +1,7 @@
 mi primer programa con git3
 pepito
 juanito
-
+pepita
 /* 
 min 50s
 */
