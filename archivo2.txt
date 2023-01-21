@@ -1,1 +1,7 @@
 mi primer programa con git3
+pepito
+juanito
+
+/* 
+min 50s
+*/
